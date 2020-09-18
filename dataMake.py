@@ -20,9 +20,9 @@ def getText():
     text = input("Enter the text: ")
     return text.strip()
 
-def getSourceType(flag="P"):
+def getSourceType(flag="p"):
     flag = input("Enter O/P for open source sources or Print Media: ")
-    if flag == "P":
+    if flag == "p":
         return "Print Media"
     else:
         return "Open Media"
