@@ -1,0 +1,408 @@
+{
+    "article_annotate": [
+        {
+            "Class Type": "2",
+            "Disease": "Covid"
+        },
+        {
+            "Class Type": "2",
+            "File Name": "2"
+        },
+        {
+            "File Name": "Covid-19 1",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 2",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 3",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 4",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 5",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 6",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 7",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 8",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 9",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 10",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 11",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 12",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 13",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 14",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 15",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 16",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 17",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 19",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 20",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 21",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 22",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 23",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 24",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 25",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 26",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 27",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 28",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 29",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 30",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 31",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 32",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 33",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 34",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 35",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 36",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 37",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 38",
+            "Class Type": ""
+        },
+        {
+            "File Name": "Covid-19 39",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 40",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 41",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 42",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 43",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 44",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 45",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 46",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 47",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 48",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 49",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 50",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 51",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 52",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 53",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 54",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 55",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 56",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 57",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 58",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 59",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 60",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 61",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 62",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 63",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 64",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 65",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 66",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 67",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 68",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 69",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 70",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 71",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 72",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 73",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 74",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 75",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 76",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 77",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 78",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 79",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 80",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "Covid-19 81",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 82",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 83",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 84",
+            "Class Type": "1"
+        },
+        {
+            "File Name": "Covid-19 85",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 86",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 87",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 88",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "Covid-19 89",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "H1N1 90",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 91",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 92",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 93",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 94",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 95",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 96",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 97",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 98",
+            "Class Type": "3"
+        },
+        {
+            "File Name": "H1N1 99",
+            "Class Type": "2"
+        },
+        {
+            "File Name": "H1N1 100",
+            "Class Type": "3"
+        }
+    ]
+}
