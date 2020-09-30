@@ -43,20 +43,38 @@ def searchBySource(source, HL=True):
             c=c+1
      
 
+def searchByBoth(diseaseAndSource, HL=True):
+    listOfData = loadFile()
+    c = 1
+    x = ' '
+    for each_dict in listOfData:
+        
+        x = each_dict['Disease']
+        y = each_dict['SourceName']
+        
+        if x+' '+y == diseaseAndSource:
+            if HL:
+                print(c, each_dict['HeadLine'])
+            else:
+                print(each_dict)
+            c=c+1
 
 
-def choices(choice, disease, source):
+
+def choices(choice, disease, source, diseaseAndSource):
     if choice == 1:
         searchByDisease(disease)
     if choice == 2:
         searchBySource(source, HL=False)
-
+    if choice == 3:
+        searchByBoth(diseaseAndSource)
         
 def main():
-    choice = int(input('1 for search by disease 2 for search by source any digit for count: '))
+    choice = int(input('1 for search by disease 2 for search by source any digit for count 3 for search by both disease and source: '))
     disease = input('ENTER Disease Name: ')
     source = input('New York Times, Washington Post, BBC, CNN, AlJazeera: ')
-    choices(choice, disease, source)
+    diseaseAndSource = input('Enter both Disease and SourceName:')
+    choices(choice, disease, source, diseaseAndSource)
     
 if __name__ == "__main__":
     main()
