@@ -47,6 +47,7 @@ def searchByBoth(diseaseAndSource, HL=True):
     listOfData = loadFile()
     c = 1
     x = ' '
+    y = ' '
     for each_dict in listOfData:
         
         x = each_dict['Disease']
@@ -65,7 +66,7 @@ def choices(choice, disease, source, diseaseAndSource):
     if choice == 1:
         searchByDisease(disease)
     if choice == 2:
-        searchBySource(source, HL=False)
+        searchBySource(source)
     if choice == 3:
         searchByBoth(diseaseAndSource)
         
